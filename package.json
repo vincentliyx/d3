@@ -1,5 +1,5 @@
 {
-  "name": "d3",
+  "name": "simplifyD3",
   "version": "3.5.6",
   "description": "A JavaScript visualization library for HTML and SVG.",
   "keywords": [
@@ -12,18 +12,12 @@
   ],
   "homepage": "http://d3js.org",
   "author": {
-    "name": "Mike Bostock",
-    "url": "http://bost.ocks.org/mike"
+    "name": "Vincent Li",
+    "url": "none"
   },
-  "contributors": [
-    {
-      "name": "Jason Davies",
-      "url": "http://jasondavies.com"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mbostock/d3.git"
+    "url": "https://github.com/vincentliyx/simplifyD3.git"
   },
   "main": "index.js",
   "browserify": "d3.js",

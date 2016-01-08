@@ -1,6 +1,6 @@
 {
-  "name": "d3",
-  "repository": "mbostock/d3",
+  "name": "simplifyD3",
+  "repository": "vincentliyx/simplifyD3",
   "description": "A JavaScript visualization library for HTML and SVG.",
   "keywords": [
     "dom",

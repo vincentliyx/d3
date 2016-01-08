@@ -1,5 +1,5 @@
 {
-  "name": "d3",
+  "name": "simplifyD3",
   "main": "d3.js",
   "scripts": [
     "d3.js"
