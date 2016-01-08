@@ -1,9 +1,17 @@
-# Data-Driven Documents
+# Simplify D3
 
-<a href="http://d3js.org"><img src="http://d3js.org/logo.svg" align="left" hspace="10" vspace="6"></a>
+This is a simple modified version of **D3.js**. The source code is forked from [D3.js](https://github.com/mbostock/d3) which is a JavaScript library for manipulating documents based on data.
 
-**D3.js** is a JavaScript library for manipulating documents based on data. **D3** helps you bring data to life using HTML, SVG, and CSS. **D3** emphasizes web standards and combines powerful visualization components with a data-driven approach to DOM manipulation, giving you the full capabilities of modern browsers without tying yourself to a proprietary framework.
+The purpose of this modification is minimizing the size of the library(from 240KB to ~80KB). This library only contain the basic function of D3.js.
 
-Want to learn more? [See the wiki.](https://github.com/mbostock/d3/wiki)
+Removed modules:
+**behavior**
+**dsv**
+**geo**
+**geom**
+**layout**
+**time**
 
-For examples, [see the gallery](https://github.com/mbostock/d3/wiki/Gallery) and [mbostock’s bl.ocks](http://bl.ocks.org/mbostock).
+API of complete D3.js [See the wiki.](https://github.com/mbostock/d3/wiki)
+
+example of D3.js [see the gallery](https://github.com/mbostock/d3/wiki/Gallery) and [mbostock’s bl.ocks](http://bl.ocks.org/mbostock).

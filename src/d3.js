@@ -2,21 +2,21 @@ import "start";
 import "compat/";
 
 import "arrays/";
-import "behavior/";
+//import "behavior/";
 import "color/";
 import "core/";
-import "dsv/";
+//import "dsv/";
 import "event/";
 import "format/";
-import "geo/";
-import "geom/";
+//import "geo/";
+//import "geom/";
 import "interpolate/";
-import "layout/";
+//import "layout/";
 import "math/";
 import "scale/";
 import "selection/";
 import "svg/";
-import "time/";
+//import "time/";
 import "transition/";
 import "xhr/";
 
